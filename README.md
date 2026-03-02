@@ -10,7 +10,7 @@
   <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/tests-74%20unit%20%2B%2025%20e2e-brightgreen?style=flat-square" alt="Tests">
-  <img src="https://img.shields.io/badge/coverage-93%25-brightgreen?style=flat-square" alt="Coverage">
+  <img src="https://img.shields.io/badge/coverage-86%25-brightgreen?style=flat-square" alt="Coverage">
 </p>
 
 ---
